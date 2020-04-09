@@ -15,6 +15,5 @@
 <p>(for precaching reasons, if you don't do this players models will not load)</p>
 <hr>
 <h1>I PLAN TO EXPAND THIS LATER ON!</h1>
-<p>I plan to add multi spawn/random spawning, I'll add a section for that when it's implemented</p>
-<hr>
+<p>These map guidelines will be changing a lot during development!</p>
 <p> And that's it! If your map is good enough, it'll get officially added into HLADM!</p>
