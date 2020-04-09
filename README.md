@@ -13,7 +13,7 @@ Half-Life: Alyx: Deathmatch
 <p>There is a included map, test_dm - It has all of the models precached and is good for testing</p>
 <hr>
 <p>You may have minor issues with getting it to work/installation<p>
-<p>I plan to pack this all into some VPKs when finished, making installation easier and more reliable</p>
+<p>I plan to pack this all into some VPKs when finished, making installation easier and more reliable <br>- I plan to make a installer in the near future</p>
 <h1>THIS IS STILL UNFINISHED!</h1>
 <ul>
 <li><p>It is actively being worked on by me and some others (credits in files), notably JJl77 and Jan4V<p></li>
