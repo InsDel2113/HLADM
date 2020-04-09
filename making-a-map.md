@@ -16,4 +16,7 @@
 <hr>
 <h1>I PLAN TO EXPAND THIS LATER ON!</h1>
 <p>These map guidelines will be changing a lot during development!</p>
+<br>
+<hr>
+<br>
 <p> And that's it! If your map is good enough, it'll get officially added into HLADM!</p>
