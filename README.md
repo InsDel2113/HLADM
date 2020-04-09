@@ -6,6 +6,7 @@ Half-Life: Alyx: Deathmatch
 <p>One of the issues with HLA's code is much of it is singleplayer only, therefore making some things unstable</p>
 <h1>Installation</h1>
 <p>Install Jan4V's Non-VR Patch (now fixes dedicated servers like mine did)</p>
+<p>Jan4V's patch: <a href="https://github.com/Jan4V/hlnonvr">https://github.com/Jan4V/hlnonvr</a></p>
 <p>Download this resporitory, and drag and drop hladm into YourSteamappsDir\Half-Life Alyx\game</p>
 <p>Make a shortcut to your hlnonvr.exe with the launch options: -game hladm -console -vconsole -developer -dev</p>
 <p>OR FOR HOSTING OF A DEDICATED SERVER:</p><p> -game hladm -dedicated -allow_no_lobby_connect -maxplayers 16 -tickrate 64</p>
