@@ -15,5 +15,17 @@ Half-Life: Alyx: Deathmatch
 <p>You may have minor issues with getting it to work/installation<p>
 <p>I plan to pack this all into some VPKs when finished, making installation easier and more reliable</p>
 <h1>THIS IS STILL UNFINISHED!</h1>
-<p>It is actively being worked on by me and some others (credits in files), notably JJl77 and Jan4V<p>
-<p>I plan to port HL2DM maps/etc to this<p>
+<ul>
+<li><p>It is actively being worked on by me and some others (credits in files), notably JJl77 and Jan4V<p></li>
+<li><p>I plan to port HL2DM maps/etc to this<p></li>
+</ul>
+<h1>Things fixed:</h1>
+<ul>
+  <li>Weapons(including sounds)</li>
+  <li>GUI</li>
+  <li>Flashlight and jump fix</li>
+  <li>MP Player models</li>
+  <li>TODO: MP Animations</li>
+  <li>TODO: Scoreboard   </li>
+  <li>TODO: All MP related VGUI(chat, etc</li>
+  </ul>
