@@ -10,6 +10,8 @@ Half-Life: Alyx: Deathmatch
 <p>Download this resporitory, and drag and drop hladm into YourSteamappsDir\Half-Life Alyx\game</p>
 <p>Make a shortcut to your hlnonvr.exe with the launch options: -game hladm -console -vconsole -developer -dev</p>
 <p>OR FOR HOSTING OF A DEDICATED SERVER:</p><p> -game hladm -dedicated -allow_no_lobby_connect -maxplayers 16 -tickrate 64</p>
+<p>There is a included map, test_dm - It has all of the models precached and is good for testing</p>
+<hr>
 <p>You may have minor issues with getting it to work/installation<p>
 <p>I plan to pack this all into some VPKs when finished, making installation easier and more reliable</p>
 <h1>THIS IS STILL UNFINISHED!</h1>
