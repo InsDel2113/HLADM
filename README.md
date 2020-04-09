@@ -27,5 +27,5 @@ Half-Life: Alyx: Deathmatch
   <li>MP Player models</li>
   <li>TODO: MP Animations</li>
   <li>TODO: Scoreboard   </li>
-  <li>TODO: All MP related VGUI(chat, etc</li>
+  <li>TODO: All MP related VGUI(chat, etc)</li>
   </ul>
