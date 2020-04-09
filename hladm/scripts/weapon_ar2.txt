@@ -1,0 +1,79 @@
+// Assault Rifle 2
+
+GameFileWeaponInfo_t
+{
+	// Weapon data is loaded by both the Game and Client DLLs.
+	"printname"	"AR2"
+	"viewmodel"				"models/weapons/v_irifle.vmdl"
+	"playermodel"			"models/weapons/v_irifle.vmdl"
+	"muzzleflash_particle"	"particles/weapon_fx/muzzleflash_smgs.vpcf"
+	"tracer_particle"		"particles/tracer_fx/smg_tracer.vpcf"
+	"anim_prefix"			"ar2"
+	"bucket"			"2"
+	"bucket_position"		"1"
+	"bucket_360"			"1"
+	"bucket_position_360"		"2"
+
+	"clip_size"			"30"
+	"default_clip"			"30"
+
+	"clip2_size"			"-1"
+	"default_clip2"			"-1"
+
+	"primary_ammo"			"AR2"
+	"secondary_ammo"		"AR2AltFire"
+	"autoswitchto"			"1"
+
+	"weight"				"5"
+	"rumble"			"4"
+	"item_flags"			"0"
+
+        TextureData
+	{
+		"weapon"
+		{
+				"font"		"WeaponIcons"
+				"character"	"l"
+		}
+		"weapon_s"
+		{	
+				"font"		"WeaponIconsSelected"
+				"character"	"l"
+		}
+		"weapon_small"
+		{
+				"font"		"WeaponIconsSmall"
+				"character"	"l"
+		}
+		"ammo"
+		{
+				"font"		"WeaponIconsSmall"
+				"character"	"u"
+		}
+		"ammo2"
+		{
+				"font"		"WeaponIconsSmall"
+				"character"	"z"
+		}
+		"crosshair"
+		{
+				"font"		"Crosshairs"
+				"character"	"Q"
+		}
+        }
+
+	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
+	SoundData
+	{
+		"special1"		"Weapon_CombineGuard.Special1"
+		"empty"			"Weapon_IRifle.Empty"
+		"double_shot"		"Weapon_IRifle.Single"
+		"reload"		"Weapon_AR2.Reload"
+		"single_shot"		"Weapon_AR2.Single"
+
+		// NPC SECTION
+		"single_shot_npc"	"CombineAR.Fire"
+		"reload_npc"		"Weapon_AR2.NPC_Reload"
+		"double_shot_npc"	"Weapon_AR2.NPC_Double"
+	}
+}
