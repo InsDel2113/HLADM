@@ -24,7 +24,7 @@ Half-Life: Alyx: Deathmatch
   <li>Weapons(including sounds)</li>
   <li>GUI</li>
   <li>Flashlight and jump fix</li>
-  <li>MP Player models</li>
+  <li>MP Player models(randomized, may make selectable)</li>
   <li>TODO: MP Animations</li>
   <li>TODO: Scoreboard   </li>
   <li>TODO: All MP related VGUI(chat, etc)</li>
