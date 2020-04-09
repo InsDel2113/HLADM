@@ -20,6 +20,7 @@ Half-Life: Alyx: Deathmatch
 <li><p>It is actively being worked on by me and some others (credits in files), notably JJl77 and Jan4V<p></li>
 <li><p>I plan to port HL2DM maps/etc to this<p></li>
 </ul>
+<p>Want to make a custom map? Make sure you check out the <a href="https://github.com/InsDel2113/HLADM/blob/master/making-a-map.md">map guidelines</a></p>
 <h1>Things fixed:</h1>
 <ul>
   <li>Weapons(including sounds)</li>
@@ -29,4 +30,5 @@ Half-Life: Alyx: Deathmatch
   <li>TODO: MP Animations</li>
   <li>TODO: Scoreboard   </li>
   <li>TODO: All MP related VGUI(chat, etc)</li>
+  <li>TODO: Custom/randomized map spawn locations</li>
   </ul>
