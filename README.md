@@ -9,7 +9,8 @@ Half-Life: Alyx: Deathmatch
 <p>Jan4V's patch: <a href="https://github.com/Jan4V/hlnonvr">https://github.com/Jan4V/hlnonvr</a></p>
 <p>Download this resporitory, and drag and drop hladm into YourSteamappsDir\Half-Life Alyx\game</p>
 <p>Make a shortcut to your hlnonvr.exe with the launch options: <code>-game hladm -console -vconsole -developer -dev</code></p>
-<p>OR FOR HOSTING OF A DEDICATED SERVER:</p><p> <code>-game hladm -dedicated -allow_no_lobby_connect -maxplayers 16 -tickrate 64</code></p> (make sure you type map mapname in server console, lobbys do not exist)
+<p>OR FOR HOSTING OF A DEDICATED SERVER:</p><p> <code>-game hladm -dedicated -allow_no_lobby_connect -maxplayers 16 -tickrate 64</code><br>(make sure you type map mapname in server console, lobbys do not exist)</p>
+<br>
 <p>There is a included map, test_dm - It has all of the models precached and is good for testing</p>
 <hr>
 <p>You may have minor issues with getting it to work/installation<p>
