@@ -11,5 +11,5 @@ Half-Life: Alyx: Deathmatch
 <p>Make a shortcut to your hlnonvr.exe with the launch options: -game hladm -console -vconsole -developer -dev</p>
 <p>OR FOR HOSTING OF A DEDICATED SERVER:</p><p> -game hladm -dedicated -allow_no_lobby_connect -maxplayers 16 -tickrate 64</p>
 <h1>THIS IS STILL UNFINISHED!</h1>
-<p>It is actively being worked on by me and some others (credits in files)<p>
+<p>It is actively being worked on by me and some others (credits in files), notably JJl77 and Jan4V<p>
 <p>I plan to port HL2DM maps/etc to this<p>
