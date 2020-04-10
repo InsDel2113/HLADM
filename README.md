@@ -31,4 +31,6 @@ Half-Life: Alyx: Deathmatch
   <li>TODO: Scoreboard   </li>
   <li>TODO: All MP related VGUI(chat, etc)</li>
   <li>TODO: Custom/randomized map spawn locations</li>
+  <li>TODO: Port HL2DM Maps, Models, and Materials</li>
   </ul>
+  <p>If you do, or are interested in doing any of the above "TODO:" things feel free to make a pull request with the additions</p>
