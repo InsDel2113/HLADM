@@ -202,6 +202,7 @@ function include_script(script)
 end
 -- ADD USER SCRIPTS HERE
 Msg("Loading user scripts...")
+include_script("user/precache.lua")
 include_script("user/mp_jump_fix.lua")
 include_script("user/mp_flashlight_fix.lua")
 include_script("user/mp_playermodels.lua")
