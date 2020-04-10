@@ -33,5 +33,6 @@ Half-Life: Alyx: Deathmatch
   <li>TODO: Custom/randomized map spawn locations</li>
   <li>TODO: Port HL2DM Maps, Models, and Materials</li>
   </ul>
-  <p>If you do, or are interested in doing any of the above "TODO:" things feel free to make a pull request to the dev branch with the additions</p>
-  <h1>ALL PRS goto the dev branch!</h1>
+ <h1>Contribution?</h1>
+ <p>Yes! Make a pull request to the dev branch, and I'll happily accept it</p>
+ <p>(preferably with stuff listed as "TODO:" or any cool new additions, fixes, etc)</p>
