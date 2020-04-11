@@ -34,5 +34,5 @@ Half-Life: Alyx: Deathmatch
   <li>TODO: Port HL2DM Maps, Models, and Materials</li>
   </ul>
  <h1>Contribution?</h1>
- <p>Yes! Make a pull request to the dev branch, and I'll happily accept it</p>
+ <p>Yes! Make a pull request to the dev branch, and I'll happily look in to, and possibly accept it!</p>
  <p>(preferably with stuff listed as "TODO:" or any cool new additions, fixes, etc)</p>
