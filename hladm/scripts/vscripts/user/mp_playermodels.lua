@@ -22,7 +22,7 @@ end
 
 player_spawn_ev = ListenToGameEvent('player_spawn', function(info)
 	if not IsServer() then return end
-	PlayerInstanceFromIndex(info["userid"):SetModel(models[RandomInt(1, #models)]) 
+	PlayerInstanceFromIndex(info["userid"]):SetModel(models[RandomInt(1, #models)]) 
 end, nil)
 
 -- credits: JJL77 & InsDel(myself)
