@@ -2,6 +2,7 @@
 Half-Life: Alyx: Deathmatch
 <hr>
 <h1>Important: In a recent update, Valve changed some code and changed a bunch of stuff. MP is a bit harder to do now - and may be near impossible. Using older files could fix the problem though.</h1>
+<h1> However this is still good for restoring the HL2 stuff as well as fixing multiple things </h1>
 <p>Currently, this is more focused on the Non-VR aspect of things, however I may add a officially VR supported mode in the future</p>
 <p>The goal of this is to recreate HL2DM in the HLA Engine/S2</p>
 <p>One of the issues with HLA's code is much of it is singleplayer only, therefore making some things unstable</p>
